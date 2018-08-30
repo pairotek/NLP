@@ -26,9 +26,10 @@ step 5. install Flask (ref : http://flask.pocoo.org/docs/1.0/).
 
 step 6. load file model google drive.
 
-        $ wget 
+        $ https://drive.google.com/open?id=1bHLkOMFRzQxEy_LxV2sdABKOgmrHIzdZ 
+        $ load folder SentimentAnalysisProduction
 
-step 7. train model as folow train_model.txt
+step 7. train model as folow detail train_model.txt
 
 
         
