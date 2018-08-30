@@ -1,22 +1,18 @@
 ========= add message negative =======
 
-step 1. go to ./SentimentAnalysisProduction/negative_messages for data train.
+step 1. go to ./SentimentAnalysisProduction/negative_messages and add message negative for train and test model.
 
       $ vi ./SentimentAnalysisProduction/negative_messages/train_neg.txt
-     
-step 2. go to ./SentimentAnalysisProduction/negative_messages for data test.
 
       $ vi ./SentimentAnalysisProduction/negative_messages/test_neg.txt
      
    
 ========= add message positive =======
       
-step 3. go to ./SentimentAnalysisProduction/positive_messages for data train.
+step 2. go to ./SentimentAnalysisProduction/positive_messages and add message positive for train and test model.
 
       $ vi ./SentimentAnalysisProduction/positive_messages/train_pos.txt
      
-step 4. go to ./SentimentAnalysisProduction/positive_messages for data test.
-
       $ vi ./SentimentAnalysisProduction/positive_messages/test_pos.txt
       
 
