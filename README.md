@@ -28,5 +28,7 @@ step 6. load file model google drive.
 
         $ wget 
 
+step 7. train model as train_model.txt
+
 
         
