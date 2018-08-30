@@ -28,4 +28,19 @@ step 3. go to ./SentimentAnalysisProduction for train model
           3. lid.176.bin
           
 
+========= Run API =======
+step 4. go to ./api_production for run API
+
+      $ ./run_api_production.sh
  
+
+========= Call API =======
+step 5. call API below link => https://sentiment-1.zrinf.io/zanroo_sentiment_analysis_thai
+ 
+
+         
+         
+         
+
+      
+      
