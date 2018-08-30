@@ -24,7 +24,7 @@ step 5. install Flask (ref : http://flask.pocoo.org/docs/1.0/).
         $ pip install Flask
 
 
-step 6. load file model google drive.
+step 6. load model file from google drive.
 
         $ https://drive.google.com/open?id=1bHLkOMFRzQxEy_LxV2sdABKOgmrHIzdZ 
         $ load folder SentimentAnalysisProduction
