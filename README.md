@@ -1,5 +1,5 @@
 # NLP
-step 1. install Anaconda3 this link.
+step 1. install Anaconda3 from this link.
 
         https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-16-04 
         
@@ -22,3 +22,11 @@ step 4. install fastText (ref : https://github.com/facebookresearch/fastText).
 step 5. install Flask (ref : http://flask.pocoo.org/docs/1.0/).
 
         $ pip install Flask
+
+
+step 6. load file model google drive.
+
+        $ wget 
+
+
+        
