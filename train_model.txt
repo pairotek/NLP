@@ -1,23 +1,29 @@
 ========= add message negative =======
 
-step 1. go to train_neg.txt for data train.
+step 1. go to ./SentimentAnalysisProduction/negative_messages for data train.
 
       $ vi ./SentimentAnalysisProduction/negative_messages/train_neg.txt
      
-step 2. go to test_neg.txt for data test.
+step 2. go to ./SentimentAnalysisProduction/negative_messages for data test.
 
       $ vi ./SentimentAnalysisProduction/negative_messages/test_neg.txt
      
    
 ========= add message positive =======
       
-step 3. go to train_pos.txt for data train.
+step 3. go to ./SentimentAnalysisProduction/positive_messages for data train.
 
       $ vi ./SentimentAnalysisProduction/positive_messages/train_pos.txt
      
-step 4. go to test_pos.txt for data test.
+step 4. go to ./SentimentAnalysisProduction/positive_messages for data test.
 
       $ vi ./SentimentAnalysisProduction/positive_messages/test_pos.txt
       
+
+========= train model =======
+      
+step 5. go to ./SentimentAnalysisProduction for train model
+      
+      $ python3 ./SentimentAnalysisProduction/dl_model.py
       
  
