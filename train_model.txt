@@ -21,5 +21,5 @@ step 2. go to ./SentimentAnalysisProduction/positive_messages and add message po
 step 5. go to ./SentimentAnalysisProduction for train model
       
       $ python3 ./SentimentAnalysisProduction/dl_model.py
-      
+      *** After run model about 5-6 Hr. It will ganerate model file thai_sentiment_final.h5 and tokenizer.pickle and take it to predict on api.
  
