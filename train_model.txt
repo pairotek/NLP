@@ -1,0 +1,9 @@
+step 1. go to train_neg.txt  for data train.
+
+      $ vi ./SentimentAnalysisProduction/negative_messages/train_neg.txt
+     
+step 2. go to test_neg.txt  for data test.
+
+      $ vi ./SentimentAnalysisProduction/negative_messages/test_neg.txt
+      
+step 3.
