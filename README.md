@@ -23,13 +23,21 @@ step 5. install Flask (ref : http://flask.pocoo.org/docs/1.0/).
 
         $ pip install Flask
 
+step 6. install google NLP library.
 
-step 6. load model file from google drive.
+        $ pip install google-cloud-natural-language
+
+step 7. load model file from google drive.
 
         $ https://drive.google.com/open?id=1bHLkOMFRzQxEy_LxV2sdABKOgmrHIzdZ 
         $ load folder SentimentAnalysisProduction
 
-step 7. train model as folow detail train_model.txt
+step 8. load API file from google drive.
+
+        $ https://drive.google.com/open?id=1Q9SNlU-dt3T_xtT1k6-W4ozU6_SNb46k
+        $ load folder api_production      
+
+step 9. train model as folow detail train_model.txt
 
 
         
