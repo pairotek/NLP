@@ -1,6 +1,6 @@
 ========= add message negative =======
 
-step 1. go to ./SentimentAnalysisProduction/negative_messages and add message negative for train and test model.
+step 1. go to path ./SentimentAnalysisProduction/negative_messages and add message negative for train and test model.
 
       $ vi ./SentimentAnalysisProduction/negative_messages/train_neg.txt
 
@@ -9,7 +9,7 @@ step 1. go to ./SentimentAnalysisProduction/negative_messages and add message ne
    
 ========= add message positive =======
       
-step 2. go to ./SentimentAnalysisProduction/positive_messages and add message positive for train and test model.
+step 2. go to path ./SentimentAnalysisProduction/positive_messages and add message positive for train and test model.
 
       $ vi ./SentimentAnalysisProduction/positive_messages/train_pos.txt
      
@@ -18,7 +18,7 @@ step 2. go to ./SentimentAnalysisProduction/positive_messages and add message po
 
 ========= train model =======
       
-step 3. go to ./SentimentAnalysisProduction for train model
+step 3. go to path ./SentimentAnalysisProduction for train model
       
       $ python3 ./SentimentAnalysisProduction/dl_model.py
       
@@ -29,7 +29,7 @@ step 3. go to ./SentimentAnalysisProduction for train model
           
 
 ========= Run API =======
-step 4. go to ./api_production for run API
+step 4. go to path ./api_production for run API
 
       $ ./run_api_production.sh
  
