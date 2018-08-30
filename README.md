@@ -1,5 +1,5 @@
 # NLP
-step 1. install Anaconda3
+step 1. install Anaconda3 for support library '\n'
         https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-16-04 
         
 step 2. install Tensorflow
